@@ -3,6 +3,10 @@
         {
             "name": "compositor_vertex",
             "path": "compositor_vertex"
+        },
+        {
+            "name": "compositor_fragment",
+            "path": "compositor_fragment"
         }
     ]
 }
