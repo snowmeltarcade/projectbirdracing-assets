@@ -2,7 +2,7 @@
     "resources": [
         {
             "name": "compositor_vertex",
-            "path": "compositor.vert"
+            "path": "compositor_vertex"
         }
     ]
 }
