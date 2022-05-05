@@ -7,6 +7,14 @@
         {
             "name": "compositor_fragment",
             "path": "compositor_fragment"
+        },
+        {
+            "name": "color_vertex",
+            "path": "color_vertex"
+        },
+        {
+            "name": "color_fragment",
+            "path": "color_fragment"
         }
     ]
 }
